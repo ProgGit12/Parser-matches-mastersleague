@@ -1,0 +1,5 @@
+.DS_Store
+selenium.tar
+.idea/
+/venv/
+/resources
